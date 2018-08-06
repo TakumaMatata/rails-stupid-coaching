@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  color: rgb(230, 101, 247);
+  font-size: 50px;
+}
+
+
+.your-answer {
+  border-left: 5px solid lightgreen;
+  padding-left: 15px;
+
+}
+
+.your-coach {
+  border-left: 5px solid lightblue;
+  padding-left: 15px;
+}
